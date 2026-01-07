@@ -54,11 +54,11 @@ This code is meant for learning and reference purposes
 
 ASCII art generated automatically may differ from manually designed ASCII art
 
-👩‍🎓 Student Details
+ Student Details
 
 Name: Shriti Kumari
 Course: AI/ML
 Semester: 3rd
 Institute: Rungta College of Engineering & Technology
 
-✅ This project showcases Python fundamentals, image processing logic, and creative text-based visualization.
+ This project showcases Python fundamentals, image processing logic, and creative text-based visualization.
